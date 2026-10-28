@@ -1,17 +1,26 @@
 {
   "files": {
     "main.css": "/sabor-arte/static/css/main.7f62b1f1.css",
-    "main.js": "/sabor-arte/static/js/main.ad769500.js",
+    "main.js": "/sabor-arte/static/js/main.4b71691a.js",
     "static/js/453.5275755e.chunk.js": "/sabor-arte/static/js/453.5275755e.chunk.js",
+    "static/media/restaurante.png": "/sabor-arte/static/media/restaurante.f141c6dfed86649a1610.png",
+    "static/media/salmon.png": "/sabor-arte/static/media/salmon.8839c5525d373206b131.png",
     "static/media/banner.png": "/sabor-arte/static/media/banner.e28dca229a4f384c045d.png",
+    "static/media/postre.png": "/sabor-arte/static/media/postre.a74104dda87bbbc16e00.png",
+    "static/media/carne.png": "/sabor-arte/static/media/carne.0b4dfa1f0f402964ac91.png",
+    "static/media/pasta.png": "/sabor-arte/static/media/pasta.625a79ae7d9fd1359665.png",
     "static/media/chef.png": "/sabor-arte/static/media/chef.bf79ddb56ea389057b9f.png",
+    "static/media/hojas.png": "/sabor-arte/static/media/hojas.d77cb26103bdf2d37ae3.png",
+    "static/media/gorro.png": "/sabor-arte/static/media/gorro.6dc1a8dfc38266391273.png",
+    "static/media/plato.png": "/sabor-arte/static/media/plato.86b9deb997651d782586.png",
+    "static/media/copa.png": "/sabor-arte/static/media/copa.c641666fea1a427caddb.png",
     "index.html": "/sabor-arte/index.html",
     "main.7f62b1f1.css.map": "/sabor-arte/static/css/main.7f62b1f1.css.map",
-    "main.ad769500.js.map": "/sabor-arte/static/js/main.ad769500.js.map",
+    "main.4b71691a.js.map": "/sabor-arte/static/js/main.4b71691a.js.map",
     "453.5275755e.chunk.js.map": "/sabor-arte/static/js/453.5275755e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f62b1f1.css",
-    "static/js/main.ad769500.js"
+    "static/js/main.4b71691a.js"
   ]
 }
