@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sabor-arte/static/css/main.7f62b1f1.css",
-    "main.js": "/sabor-arte/static/js/main.b2b59357.js",
+    "main.js": "/sabor-arte/static/js/main.ad769500.js",
     "static/js/453.5275755e.chunk.js": "/sabor-arte/static/js/453.5275755e.chunk.js",
     "static/media/banner.png": "/sabor-arte/static/media/banner.e28dca229a4f384c045d.png",
     "static/media/chef.png": "/sabor-arte/static/media/chef.bf79ddb56ea389057b9f.png",
     "index.html": "/sabor-arte/index.html",
     "main.7f62b1f1.css.map": "/sabor-arte/static/css/main.7f62b1f1.css.map",
-    "main.b2b59357.js.map": "/sabor-arte/static/js/main.b2b59357.js.map",
+    "main.ad769500.js.map": "/sabor-arte/static/js/main.ad769500.js.map",
     "453.5275755e.chunk.js.map": "/sabor-arte/static/js/453.5275755e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f62b1f1.css",
-    "static/js/main.b2b59357.js"
+    "static/js/main.ad769500.js"
   ]
 }
