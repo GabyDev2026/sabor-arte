@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f62b1f1.css",
-    "main.js": "/static/js/main.8ea47909.js",
-    "static/js/453.5275755e.chunk.js": "/static/js/453.5275755e.chunk.js",
-    "index.html": "/index.html",
-    "main.7f62b1f1.css.map": "/static/css/main.7f62b1f1.css.map",
-    "main.8ea47909.js.map": "/static/js/main.8ea47909.js.map",
-    "453.5275755e.chunk.js.map": "/static/js/453.5275755e.chunk.js.map"
+    "main.css": "/sabor-arte/static/css/main.7f62b1f1.css",
+    "main.js": "/sabor-arte/static/js/main.e7bfe846.js",
+    "static/js/453.5275755e.chunk.js": "/sabor-arte/static/js/453.5275755e.chunk.js",
+    "index.html": "/sabor-arte/index.html",
+    "main.7f62b1f1.css.map": "/sabor-arte/static/css/main.7f62b1f1.css.map",
+    "main.e7bfe846.js.map": "/sabor-arte/static/js/main.e7bfe846.js.map",
+    "453.5275755e.chunk.js.map": "/sabor-arte/static/js/453.5275755e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f62b1f1.css",
-    "static/js/main.8ea47909.js"
+    "static/js/main.e7bfe846.js"
   ]
 }
