@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sabor-arte/static/css/main.0a55f38d.css",
-    "main.js": "/sabor-arte/static/js/main.576f792d.js",
+    "main.js": "/sabor-arte/static/js/main.f7b6edda.js",
     "static/js/453.5275755e.chunk.js": "/sabor-arte/static/js/453.5275755e.chunk.js",
     "static/media/restaurante.png": "/sabor-arte/static/media/restaurante.f141c6dfed86649a1610.png",
     "static/media/salmon.png": "/sabor-arte/static/media/salmon.8839c5525d373206b131.png",
@@ -16,11 +16,11 @@
     "static/media/copa.png": "/sabor-arte/static/media/copa.c641666fea1a427caddb.png",
     "index.html": "/sabor-arte/index.html",
     "main.0a55f38d.css.map": "/sabor-arte/static/css/main.0a55f38d.css.map",
-    "main.576f792d.js.map": "/sabor-arte/static/js/main.576f792d.js.map",
+    "main.f7b6edda.js.map": "/sabor-arte/static/js/main.f7b6edda.js.map",
     "453.5275755e.chunk.js.map": "/sabor-arte/static/js/453.5275755e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a55f38d.css",
-    "static/js/main.576f792d.js"
+    "static/js/main.f7b6edda.js"
   ]
 }
