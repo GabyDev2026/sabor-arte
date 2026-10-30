@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sabor-arte/static/css/main.7f62b1f1.css",
-    "main.js": "/sabor-arte/static/js/main.4b71691a.js",
+    "main.css": "/sabor-arte/static/css/main.0a55f38d.css",
+    "main.js": "/sabor-arte/static/js/main.32933970.js",
     "static/js/453.5275755e.chunk.js": "/sabor-arte/static/js/453.5275755e.chunk.js",
     "static/media/restaurante.png": "/sabor-arte/static/media/restaurante.f141c6dfed86649a1610.png",
     "static/media/salmon.png": "/sabor-arte/static/media/salmon.8839c5525d373206b131.png",
@@ -15,12 +15,12 @@
     "static/media/plato.png": "/sabor-arte/static/media/plato.86b9deb997651d782586.png",
     "static/media/copa.png": "/sabor-arte/static/media/copa.c641666fea1a427caddb.png",
     "index.html": "/sabor-arte/index.html",
-    "main.7f62b1f1.css.map": "/sabor-arte/static/css/main.7f62b1f1.css.map",
-    "main.4b71691a.js.map": "/sabor-arte/static/js/main.4b71691a.js.map",
+    "main.0a55f38d.css.map": "/sabor-arte/static/css/main.0a55f38d.css.map",
+    "main.32933970.js.map": "/sabor-arte/static/js/main.32933970.js.map",
     "453.5275755e.chunk.js.map": "/sabor-arte/static/js/453.5275755e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f62b1f1.css",
-    "static/js/main.4b71691a.js"
+    "static/css/main.0a55f38d.css",
+    "static/js/main.32933970.js"
   ]
 }
